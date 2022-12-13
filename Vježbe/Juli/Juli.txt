@@ -1,0 +1,3 @@
+- samo početna forma 
+
+U tabelu student dodan properti aktivan, filtriranje implementirano na novi način pomoću dodatne funkcije 
